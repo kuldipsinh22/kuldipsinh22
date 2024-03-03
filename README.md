@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kuldipsinh22
-- 👀 I’m interested in Front-end Developement
-- 🌱 I’m currently learning Reactjs & Nodejs
-- 💞️ I’m looking to collaborate on Nothing
+- 👀 FULL STACK
+- 🌱 MERN
+- 💞️ I’m looking to collaborate for hackathons
 - 📫 How to reach me kuldipsinh0031@gmail.com
 
 <!---
