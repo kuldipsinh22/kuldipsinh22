@@ -4,4 +4,4 @@
 
 :skull:  Currently, a MERN stack web developer.
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,js,mysql,nextjs,react,tailwind,ts,,nodejs,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,js,mysql,nextjs,react,nodejs,tailwind,ts,figma&theme=light)](https://skills.thijs.gg)
