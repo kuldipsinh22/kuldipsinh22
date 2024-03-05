@@ -8,4 +8,5 @@
 
 :punch: Currently learning Java, Type Script, PL/SQL.
 
+<h2> :trollface: Technologies & Tools</h2>
 [![My Skills](https://skills.thijs.gg/icons?i=java,js,mysql,nextjs,react,nodejs,tailwind,ts,figma&theme=light)](https://skills.thijs.gg)
