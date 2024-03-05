@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @kuldipsinh22
-- 👀 FULL STACK
-- 🌱 MERN
-- 💞️ I’m looking to collaborate for hackathons
-- 📫 How to reach me kuldipsinh0031@gmail.com
+<iframe src="https://giphy.com/embed/EOmYN5kVP3W2Lyn6dx" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/CGBOT-mood-computer-devbot-EOmYN5kVP3W2Lyn6dx">via GIPHY</a></p>
 
-<!---
-kuldipsinh22/kuldipsinh22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+:information_desk_person:  I am Kuldipsinh Gohil, an undergrad at SSCCS, Bhavnagar.
+:cyclone:  I love coding a bit too much and keep myself occupied with work.
+:skull:  Currently, a MERN stack web developer.
