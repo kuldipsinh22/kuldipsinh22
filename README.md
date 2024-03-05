@@ -1,5 +1,5 @@
-<h1>About me<h1>
-  
+<h1>About me</h1>
+
 :information_desk_person:  I am Kuldipsinh Gohil, an undergrad at SSCCS, Bhavnagar.
 
 :cyclone:  I love coding a bit too much and keep myself occupied with work.
